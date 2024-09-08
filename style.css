@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    direction: rtl;
+}
+
+nav {
+    background-color: #ffcccb;
+    padding: 1rem;
+    text-align: center;
+}
+
+button {
+    background-color: #4caf50;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    cursor: pointer;
+    margin: 1rem;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+input {
+    margin-right: 1rem;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+}
